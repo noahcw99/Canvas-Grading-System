@@ -21,3 +21,8 @@ Fully functional system supporting four use-cases:
 
 
 Some parts may not work due to some changes.
+
+TEAM MEMBERS:
+Noah Welsh,
+Dominic Mozeika,
+Daniel Kim
