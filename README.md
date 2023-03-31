@@ -1,4 +1,4 @@
-# CS490
+# Online Exam Application (MVC Design)
 CS490 Project: Online Exam Application 
 <a href="https://web.njit.edu/~rp528/CS490/front/login.php">Project</a>
 for testing login ucid:instructor, ucid:student, password:12345
