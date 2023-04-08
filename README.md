@@ -20,7 +20,7 @@ Fully functional system supporting four use-cases:
 
 
 
-Some parts may not work due to some changes.
+Some parts may not work due to some changes. (Originally hosted on NJIT servers)
 
 TEAM MEMBERS:
 Noah Welsh,
